@@ -19,5 +19,3 @@ The projects in this repository are grouped into the following categories:
 * Web applications using React, JavaScript, Bootstrap, etc.
 * UI/UX experiments and interactive designs.
 * Portfolio and personal website projects.
-
-### 🔹 Data Science Projects (Soon)
